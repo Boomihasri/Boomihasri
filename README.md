@@ -13,7 +13,14 @@
 
 🤝 Open to collaboration on data-driven projects and analytics challenges  
 
----
+### Skills:
+- 🧠 Artificial Intelligence
+- 🤖 Machine Learning
+- 🧬 Deep Learning
+- 🐍 Python
+- 📊 Power BI
+- 🐬 MySQL
+- 📈 Excel
 
 ## Data Analysis Projects
 ### Excel Projects

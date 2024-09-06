@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🔧 Passionate Application Developer & Data Science Enthusiast: With a strong foundation in programming languages and frameworks, I am dedicated to building efficient, user-friendly applications and exploring the vast potential of Data Science. I thrive in dynamic teams and am always eager to contribute creatively.
+-🔧 Passionate Application Developer & Data Science Enthusiast: With a strong foundation in programming languages and frameworks, I am dedicated to building efficient, user-friendly applications and exploring the vast potential of Data Science. I thrive in dynamic teams and am always eager to contribute creatively.
 
 🧠 Skills: Proficient in [list your key programming languages, e.g., Python, R, SQL]. Experienced with [list any data science tools or frameworks, e.g., Pandas, Scikit-learn, TensorFlow, Tableau].
 

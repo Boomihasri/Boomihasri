@@ -24,7 +24,7 @@
 
 ## Data Analysis Projects
 ### Excel Projects
-- **Finance_analysis_dashboard**: Analysis of sales performance metrics from 2014-2017, identifying key trends in product sales, regional performance, and profitability. Provides actionable insights to optimize inventory, improve profit margins, and enhance customer satisfaction in a competitive market.
+- [**Finance_analysis_dashboard**](): Analysis of sales performance metrics from 2014-2017, identifying key trends in product sales, regional performance, and profitability. Provides actionable insights to optimize inventory, improve profit margins, and enhance customer satisfaction in a competitive market.
 
 
 ### Power BI Projects

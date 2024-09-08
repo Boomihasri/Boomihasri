@@ -56,6 +56,5 @@
 ---
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Facebook](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/boomiha-sri-55151421a/)
+- [gmail](boomihasrip@gmail.com)

@@ -37,6 +37,7 @@
 
 
 ### Python Projects
+- [**Crop prediction**]():The goal of this project is to analyze crop production data to identify key trends and patterns. We aim to understand the distribution of crop production across different states, crops, and seasons, and to visualize these insights to inform decision-making in agriculture management.
 
 
 ## Skills

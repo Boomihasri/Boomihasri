@@ -29,19 +29,15 @@
 
 ### Power BI Projects
 - [**Telecom Churn Analysis**](): Analysis of customer churn in telecommunications (2015-2018). Identifies key factors influencing customer retention, provides insights on demographic and behavioral patterns, and offers strategies to reduce churn and increase customer lifetime value.
-- **CRM and Sales Analysis**: Analysis of Customer relationship management and sales management (2024). Identifies optimizing sales performance, top sales agent, conversion rate, win rate, and revenue forecasting. This was done for FP20 challenge.
-- **Insurance Analysis**: Interactive Power BI dashboard analyzing customer demographics, sales channels, and policy trends. Provides actionable insights on revenue generation, customer growth, and age-group impacts to drive data-informed business decisions.
-- **E-commerce Sales Analysis**: E-commerce sales and promotions analysis (2019). Examines user behavior, product performance, and promotional impact across brands, categories, and states to optimize sales strategies and profitability.
-- **Hotel Management Analysis**: Analyzing customer retention, revenue trends, and market diversity to optimize pricing strategies and enhance customer experience in the hospitality industry.
-- **Adhoc Sales Analysis**: E-commerce sales analysis project using Power BI. Insights on revenue, product categories, regional performance, and order statuses to optimize sales and improve customer satisfaction.
+- [**IT Budget Analysis and Forecast Project**](): Consider expanding the Problem Statement section to include specific challenges or questions that the analysis aims to address. For example, identifying overspending areas, predicting future budget requirements, or optimizing resource allocation.
+- [**OTT Analysis Dashboard**](): Compare content libraries (genres, ratings, duration) across Netflix, Prime Video, and Hotstar. Measure and visualize user engagement metrics such as viewership trends and content popularity.Evaluate performance metrics including streaming quality, content availability, and user retention rates.Provide actionable insights for improving content offerings, user experience, and platform competitiveness.
+- [**Data Professional-Survey-Dashboard**](): The project aims to analyze the survey data from data professionals to uncover insights related to country distribution, programming language preferences, job titles, average salaries, work/life balance, and challenges in entering the data field.
+- [**HR analytics dashboard**](): The project aims to analyze the survey data from data professionals to uncover insights related to country distribution, programming language preferences, job titles, average salaries, work/life balance, and challenges in entering the data field.
+- [**Hyper Store Sales Analysis**](): The goal of this project is to analyze sales data to uncover trends, patterns, and insights that can guide decision-making. By forecasting future sales, the project aims to assist in resource planning, inventory management, and strategic business decisions.
 
-### SQL Projects
-- **Social Media Analysis**: Wrote complex queries, merged and analyzed data from multiple databases to optimize content strategy and user engagement through hashtag analysis, user influence metrics, and regional content preferences.
-- **Sales Analysis**: Wrote queries to analyze sales performance metrics from 2014-2017, focusing on identifying key trends in product sales, regional performance, and profitability through comprehensive data-driven insights and recommendations.
-- **Call Center Analysis**: Developed SQL queries to analyze customer service metrics, sentiment, and regional trends to optimize call center operations and improve customer satisfaction.
 
 ### Python Projects
-- **Food Delivery Analysis**: Analyze 5 months of Khao's food delivery data to boost sales and profitability. Identify key factors affecting performance, analyze trends, and provide actionable recommendations for resource allocation and strategy improvement.
+
 
 ## Skills
 - **Data Analysis**: Excel, Power BI, Plotly
